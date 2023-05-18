@@ -1,1 +1,1 @@
-SELECT nombre FROM agencia_viajes.banco where sucursal like  "C%";
+SELECT * FROM agencia_viajes.banco where sucursal like  "C%";
